@@ -1,0 +1,2 @@
+# BandaiNamco-DSChallenge-3rdSolution
+バンダイナムコ研究所データサイエンスチャレンジの3rd Solution
