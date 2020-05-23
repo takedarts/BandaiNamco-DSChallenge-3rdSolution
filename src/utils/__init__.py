@@ -1,1 +1,1 @@
-from .data import Dataset
+from .data import Dataset, generate
